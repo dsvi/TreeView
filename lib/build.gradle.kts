@@ -39,7 +39,7 @@ mavenPublishing {
         name.set("TreeView control for kotlin compose")
         description.set("This implement a dynamic (lazy) tree view for kotlin compose UI framework")
         inceptionYear.set("2024")
-        url.set("https://gitlab.com/kompose/treeview")
+        url.set("https://github.com/dsvi/treeview")
 
         licenses {
             license {
@@ -58,7 +58,7 @@ mavenPublishing {
 
         // Specify SCM information
         scm {
-            url.set("https://gitlab.com/kompose/treeview")
+            url.set("https://github.com/dsvi/treeview")
         }
     }
     // Enable GPG signing for all publications
