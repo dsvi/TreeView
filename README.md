@@ -2,6 +2,8 @@
 
 Based on LazyList and hence is capable of handling > 100k of elements in it.
 
+![TreeView](screenshot.png)
+
 ## Usage
 
 To use it in your app, you have to implement a simple interface
